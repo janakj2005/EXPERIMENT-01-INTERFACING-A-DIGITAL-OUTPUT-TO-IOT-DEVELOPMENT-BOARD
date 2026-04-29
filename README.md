@@ -118,7 +118,9 @@ int main(void)
 ```
 
 ## OUTPUT
+### Light On
 <img width="1600" height="1234" alt="on" src="https://github.com/user-attachments/assets/d0b05fd4-5c8a-4aa9-813e-9a349375493b" />
+### Light Off
 <img width="1600" height="1198" alt="off" src="https://github.com/user-attachments/assets/8b708d4b-cc18-4575-83ca-299541e4d4db" />
 
 
